@@ -74,7 +74,8 @@ body img {
 }
 
 .search-button{
-  margin: 11px 4px 11px 4px;  
+  margin: 11px 4px 11px 4px; 
+  margin-bottom: 180px; 
 }
 
 .search-button input{
@@ -93,7 +94,6 @@ body img {
 }
 
 footer {
-  margin-top: 300px;
   box-sizing:content-box;
   display:grid;
   background-color: #f2f2f2;
@@ -103,7 +103,7 @@ footer {
   border-style: solid;
   border-color:var(--grey);
   border-width:1px;
-  margin-top: 110px;
+   max-height: 100vh;
   
   
 }
