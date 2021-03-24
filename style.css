@@ -93,7 +93,8 @@ body img {
   margin-bottom: 180px;
 }
 
-.search-button button {
+.search-button button, .search-button a {
+  color: #5f6368;
   font-size: 1.4rem;
   border-radius: 4px;
   background-color: #f2f2f2;
@@ -103,7 +104,7 @@ body img {
   margin: 10px;
 }
 
-.search-button button:hover {
+.search-button button:hover, .search-button a:hover {
   background-color: #f2f2f2c2;
   border-color: #b6b5b5;
 }
