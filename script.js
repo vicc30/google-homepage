@@ -1,6 +1,11 @@
-//
-//This is just an excercise
+/**
+ * Odin project Excercise.
+ * Foundations
+ * PROJECT: GOOGLE HOMEPAGE
+ * https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css
+ * 
+ * This is my solution for this excercise.
+ * 
+ * Victor C.
+ */
 
-// coded by @VictorCruz
-const projectName = 'google-page';
-localStorage.setItem('example_project', 'google page');
